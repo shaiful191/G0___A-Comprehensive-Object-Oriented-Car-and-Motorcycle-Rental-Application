@@ -102,7 +102,7 @@ This project demonstrates the four pillars of OOP:
 2. **Steps to Run**:
     - Clone this repository:
       ```bash
-      git clone https://github.com/shaiful191/G0.git
+      git clone https://github.com/shaiful191/G0___A-Comprehensive-Object-Oriented-Car-and-Motorcycle-Rental-Application.git
       ```
     - Open the project in your IDE.
     - Compile and run the `Main` class.
