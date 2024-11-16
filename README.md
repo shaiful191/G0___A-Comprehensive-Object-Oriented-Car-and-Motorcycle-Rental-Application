@@ -124,7 +124,7 @@ This project demonstrates the four pillars of OOP:
 
 ## Screenshots
 
-*(You can add screenshots of the application running in the terminal here, if available)*
+![output-1](https://github.com/user-attachments/assets/a026d200-7861-48d9-95c3-8429ef8a9956)![output-2](https://github.com/user-attachments/assets/73ae2f91-082b-4c70-a592-8ca9bfe91d5e)![output-3](https://github.com/user-attachments/assets/4b28333b-d13e-4b96-a2d9-3bbf8c8fc909)![output-4](https://github.com/user-attachments/assets/2033c539-24b1-4e1b-a1e1-8f8803fe525f)![output-5](https://github.com/user-attachments/assets/e27923b3-a5c7-41be-bd2d-09969f7fd2f9)![output-6](https://github.com/user-attachments/assets/a1b73c28-3e52-415f-9c75-b56ecc245745)
 
 ---
 
